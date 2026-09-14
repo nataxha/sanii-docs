@@ -1,209 +1,161 @@
 # Politique de confidentialité
-Dernière mise à jour : [Date]
+Dernière mise à jour : 14 septembre 2026
 
-# 1. Présentation
-La présente politique de confidentialité explique comment [Nom de l’application], éditée par [Nom de votre société ou nom personnel], collecte, utilise, conserve et protège les données personnelles de ses utilisateurs.
+## 1. Présentation
+La présente politique de confidentialité explique comment Sanii collecte, utilise, conserve et protège les données personnelles des Utilisateurs de l’application mobile Sanii.
+En utilisant l’Application, l’Utilisateur accepte les pratiques décrites dans cette politique.
 
-En utilisant l'application, vous acceptez les pratiques décrites dans cette politique.
+## 2. Responsable du traitement
+Le responsable du traitement est Sanii, sous le nom commercial Sanii.
 
-# 2. Responsable du traitement
-* Nom : [Nom de la société ou entrepreneur]
-* Adresse : [Adresse]
-* Email : [Email de contact]
+- Nom : Sanii
+- Email : support@sanii.app
+- Adresse : à compléter selon le siège réel de l’éditeur
 
-# 3. Données collectées
-L’application collecte uniquement les données nécessaires à son fonctionnement.
-Selon votre utilisation, nous pouvons collecter :
+## 3. Données collectées
+L’Application collecte uniquement les données nécessaires à son fonctionnement et à la mise en relation entre Utilisateurs.
+Selon les services utilisés, les données suivantes peuvent être collectées :
 
-# 3.1 Données d’identité
+### 3.1 Données d’identité
+- Pseudo ou nom d’utilisateur ;
+- photo de profil, si l’Utilisateur la téléverse volontairement ;
+- éventuellement d’autres informations publiques visibles sur le profil.
 
-* Nom d’utilisateur (pseudo)
+Le nom réel n’est pas requis pour créer un compte.
 
-* Photo de profil (optionnelle)
-
-* Le nom réel n’est pas demandé.
-
-# 3.2 Coordonnées
-
-* Numéro de téléphone (obligatoire pour créer un compte)
+### 3.2 Coordonnées
+- Numéro de téléphone, requis pour la création du compte et l’authentification ;
 
 
-# 3.2 Données de compte
+### 3.3 Données de compte
+- Numéro de téléphone utilisé pour l’authentification ;
+- code OTP envoyé par SMS ;
+- date de création du compte ;
+- historique de connexion (horodatage et logs de sécurité) ;
+- préférences d’utilisation du compte ;
+- favoris et contenus enregistrés par l’Utilisateur.
 
-* Numéro de téléphone utilisé pour l’authentification
+### 3.4 Données liées aux annonces
+- photos de produits ;
+- description de l’annonce ;
+- prix ;
+- catégorie ;
+- ville ou localisation générale ;
+- numéro WhatsApp ou autre contact indiqué dans l’annonce ;
+- toute autre information volontairement communiquée dans le cadre de l’annonce.
 
-* Code OTP envoyé par SMS
+### 3.5 Données techniques
+- adresse IP ;
+- type d’appareil ;
+- version du système d’exploitation ;
+- identifiants techniques nécessaires au fonctionnement de l’Application ;
+- logs de sécurité et de diagnostic.
 
-* Date de création du compte
+### 3.6 Données non collectées
+L’Application ne collecte pas, sauf si l’Utilisateur le fournit volontairement :
 
-* Historique des connexions (horodatage uniquement)
+- nom réel complet ;
+- adresse postale complète ;
+- données bancaires ;
+- localisation GPS en temps réel ;
+- historique WhatsApp ;
+- documents d’identité ;
+- messages privés échangés entre Utilisateurs hors de l’Application.
 
-# 3.3 Données liées aux annonces
+## 4. Finalités du traitement
+Les données sont collectées pour les finalités suivantes :
 
-* Photos
+- créer et gérer le compte de l’Utilisateur ;
+- publier et administrer des annonces ;
+- afficher les informations utiles à la mise en relation entre vendeurs et acheteurs ;
+- permettre les échanges et la communication par WhatsApp ou autre moyen de contact ;
+- sécuriser la plateforme ;
+- prévenir les fraudes, abus et comportements illicites ;
+- améliorer les services et l’expérience utilisateur ;
+- répondre aux demandes d’assistance ;
+- respecter les obligations légales et réglementaires.
 
-* Description
+## 5. Base juridique
+Les traitements de données reposent sur :
 
-* Prix
+- l’exécution du contrat de service et la gestion du compte utilisateur ;
+- le consentement de l’Utilisateur pour les données facultatives ;
+- l’intérêt légitime de Sanii pour la sécurité, la lutte contre la fraude et l’amélioration du service ;
+- le respect des obligations légales applicables.
 
-* Catégorie
+## 6. Destinataires des données
+Les données peuvent être transmises uniquement à :
 
-* Ville du vendeur
+- l’équipe interne de Sanii ;
+- l’hébergeur de l’Application ;
+- les prestataires techniques et de messagerie SMS ;
+- les fournisseurs de services indispensables au fonctionnement de l’Application ;
+- les autorités compétentes, lorsque la loi l’exige.
 
-* Numéro WhatsApp du vendeur
+Sanii ne vend pas les données personnelles de ses Utilisateurs.
 
-* Toute autre information volontairement fournie dans l’annonce
-
-# 3.4 Données techniques
-
-* Adresse IP
-
-* Type d’appareil
-
-* Version du système d’exploitation
-
-* Identifiants techniques nécessaires au fonctionnement de l’application
-
-* Logs de sécurité
-
-# 3.5 Données non collectées
-L’application ne collecte pas :
-
-* nom réel,
-
-* adresse postale complète,
-
-* données bancaires,
-
-* localisation GPS,
-
-* historique WhatsApp,
-
-* documents d’identité (sauf vérification volontaire),
-
-* messages échangés entre utilisateurs.
-
-# 4. Finalités du traitement
-Vos données sont utilisées pour :
-
-* créer et gérer votre compte ;
-
-* publier et administrer vos annonces ;
-
-* afficher la ville du vendeur pour faciliter la mise en relation ;
-
-* permettre les échanges entre utilisateurs via WhatsApp ;
-
-* assurer la sécurité de la plateforme ;
-
-* prévenir la fraude et les abus ;
-
-* améliorer l’application ;
-
-* répondre à vos demandes d’assistance ;
-
-* respecter nos obligations légales.
-
-# 5. Base juridique
-Les traitements reposent sur :
-
-* l’exécution du contrat (création de compte, publication d’annonces) ;
-
-* votre consentement (pseudo, photo, données facultatives) ;
-
-* notre intérêt légitime (sécurité, lutte contre la fraude, amélioration du service) ;
-
-* le respect d’obligations légales.
-
-# 6. Destinataires des données
-Vos données peuvent être transmises uniquement à :
-
-* notre équipe interne ;
-
-* notre hébergeur ;
-
-* notre prestataire d’envoi de SMS (OTP) ;
-
-* nos fournisseurs de services techniques ;
-
-* les autorités compétentes lorsque la loi l’impose.
-
-Nous ne vendons jamais vos données personnelles.
-
-# 7. Durée de conservation
+## 7. Durée de conservation
 Les données sont conservées uniquement pendant la durée nécessaire aux finalités poursuivies.
 
-Compte utilisateur : conservé tant qu’il est actif.
+- Compte utilisateur : conservé tant qu’il est actif ;
+- Annonces : conservées tant qu’elles sont publiées ou que la conservation est nécessaire pour des raisons légales ;
+- Logs techniques : conservés pour une durée limitée et uniquement à des fins de sécurité et de prévention des abus ;
+- Données supprimées : effacées ou anonymisées dans un délai raisonnable.
 
-Annonces : conservées tant qu’elles sont publiées.
+Certaines données peuvent être conservées temporairement pour respecter une obligation légale, répondre à une demande administrative ou prévenir la fraude.
 
-Logs techniques : conservés pour une durée limitée à des fins de sécurité.
+## 8. Sécurité
+Sanii met en œuvre des mesures techniques et organisationnelles raisonnables afin de protéger les données contre :
 
-Données supprimées : effacées ou anonymisées dans un délai raisonnable.
+- l’accès non autorisé ;
+- la perte ;
+- la divulgation ;
+- la modification ou la destruction non autorisée.
 
-Certaines données peuvent être conservées temporairement pour respecter des obligations légales ou prévenir la fraude.
+Toutefois, aucune mesure de sécurité ne peut être totalement exempte de risque. Sanii s’engage à mettre en place les moyens adaptés pour limiter ces risques.
 
-# 8. Sécurité
-Nous mettons en œuvre des mesures techniques et organisationnelles destinées à protéger vos données contre :
+## 9. Droits des Utilisateurs
+Conformément au RGPD, les Utilisateurs disposent des droits suivants :
 
-* l’accès non autorisé,
+- droit d’accès ;
+- droit de rectification ;
+- droit d’effacement ;
+- droit à la limitation du traitement ;
+- droit d’opposition ;
+- droit à la portabilité ;
+- droit de retirer leur consentement ;
+- droit de déposer une réclamation auprès de l’autorité de protection des données compétente.
 
-* la perte,
+Pour exercer ces droits, l’Utilisateur peut contacter Sanii à l’adresse suivante :
 
-* la divulgation,
+- support@sanii.app
 
-* la modification.
+## 10. WhatsApp et communications externes
+La mise en relation entre vendeurs et acheteurs peut se faire via WhatsApp ou d’autres canaux externes.
+Les échanges réalisés via ces canaux :
 
-# 9. Vos droits
-Conformément au RGPD, vous disposez des droits suivants :
+- ne sont pas collectés automatiquement par l’Application ;
+- ne sont pas stockés dans l’Application ;
+- ne sont pas analysés par Sanii, sauf si l’Utilisateur les transmet explicitement à l’éditeur à des fins de support ou de signalement.
 
-* droit d’accès ;
+## 11. Cookies et technologies similaires
+L’Application peut utiliser des technologies similaires aux cookies afin d’assurer son fonctionnement, mesurer son utilisation, améliorer l’expérience utilisateur et sécuriser la plateforme.
+Lorsque la réglementation l’exige, le consentement de l’Utilisateur sera demandé de manière claire et explicite.
 
-* droit de rectification ;
+## 12. Suppression du compte
+L’Utilisateur peut supprimer son compte directement depuis l’Application ou en contactant le support.
+La suppression entraîne l’effacement des données personnelles associées au compte, sauf lorsque leur conservation est nécessaire pour respecter une obligation légale, défendre les droits de Sanii ou prévenir les abus.
 
-* droit d’effacement ;
+## 13. Modifications
+Cette politique de confidentialité peut être modifiée afin de tenir compte des évolutions légales, réglementaires, techniques ou commerciales.
+La date de mise à jour figurera en tête du document.
 
-* droit à la limitation du traitement ;
+L’utilisation continue de l’Application après une mise à jour vaut acceptation de la politique révisée.
 
-* droit d’opposition ;
-
-* droit à la portabilité ;
-
-* droit de retirer votre consentement.
-
-Pour exercer vos droits :
-
-**Email : [Email de contact]**
-
-Vous pouvez également introduire une réclamation auprès de l’autorité compétente de votre pays.
-
-# 10. WhatsApp et communications externes
-La mise en relation entre vendeurs et acheteurs se fait via WhatsApp.
-Les échanges réalisés:
-
-* ne sont pas collectés,
-
-* ne sont pas stockés,
-
-* ne sont pas analysés par l’application.
-
-
-# 11. Cookies et technologies similaires
-L'application peut utiliser des technologies similaires aux cookies afin d’assurer son fonctionnement, de mesurer son audience ou d’améliorer l’expérience utilisateur.
-Lorsque la réglementation l’exige, votre consentement sera demandé.
-
-# 12. Suppression du compte
-Vous pouvez supprimer votre compte directement depuis l'application ou en nous contactant.
-
-La suppression entraîne l’effacement de vos données personnelles, sauf lorsque leur conservation est nécessaire pour respecter une obligation légale ou défendre nos droits.
-
-# 13. Modifications
-Cette politique peut être modifiée afin de tenir compte des évolutions légales, réglementaires ou techniques.
-
-La date de mise à jour figurera en haut du présent document.
-
-# 14. Contact
+## 14. Contact
 Pour toute question relative à cette politique de confidentialité ou au traitement de vos données personnelles :
 
-**Email : [Email]**  
-**Adresse : [Adresse]**
+- Email : support@sanii.app
+- Adresse : à compléter selon le siège réel de l’éditeur
+
+Sanii se réserve le droit de modifier ces coordonnées en cas de changement de structure ou de service.
